@@ -1,0 +1,26 @@
+{
+  "name": "Armor Set Bonus",
+  "active_formatting": [
+    "WHITE",
+    "BOLD"
+  ],
+  "items": [
+  {"tag": "kevstags:poa_phantom"}
+  ],
+  "bonuses": {
+    "2": [
+      {
+        "attribute": "spell_power:fire",
+        "amount": "0.2",
+        "operation": "MULTIPLY_TOTAL"
+	    }
+      ],
+    "4": [
+      {
+        "attribute": "spell_power:fire",
+        "amount": "1.5",
+        "operation": "ADDITION"
+      } 
+      ]
+  }
+}

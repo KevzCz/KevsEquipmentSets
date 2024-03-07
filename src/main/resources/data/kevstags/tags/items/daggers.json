@@ -1,0 +1,27 @@
+{
+  "replace": false,
+  "values": [
+    "mcdw:dagger_dagger",
+    "mcdw:dagger_backstabber",
+    "mcdw:dagger_chill_gale_knife",
+    "mcdw:dagger_fangs_of_frost",
+    "mcdw:dagger_moon",
+    "mcdw:dagger_resolute_tempest_knife",
+    "mcdw:dagger_shear_dagger",
+    "mcdw:dagger_swift_striker",
+    "mcdw:dagger_tempest_knife",
+    "mcdw:dagger_void_touched_blade",
+    "mcdw:soul_dagger_eternal_knife",
+    "mcdw:soul_dagger_soul_knife",
+    "mcdw:soul_dagger_truthseeker",
+    "aquamirae:dagger_of_greed",
+    "basicweapons:wooden_dagger",
+    "basicweapons:stone_dagger",
+    "basicweapons:iron_dagger",
+    "basicweapons:golden_dagger",
+    "basicweapons:diamond_dagger",
+    "basicweapons:netherite_dagger",
+    "graveyard:bone_dagger",
+    "minecells:assassins_dagger"
+  ]
+}

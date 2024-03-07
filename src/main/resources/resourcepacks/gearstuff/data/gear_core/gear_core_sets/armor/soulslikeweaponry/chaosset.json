@@ -1,0 +1,25 @@
+{
+  "name": "Chaos Bonus",
+  "active_formatting": [
+    "LIGHT_PURPLE",
+    "BOLD"
+  ],
+  "items": [
+  {"item": "soulsweapons:chaos_helmet"},
+  {"item": "soulsweapons:chaos_robes"}
+  ],
+  "bonuses": {
+    "2": [
+	{
+        "attribute": "spell_power:arcane",
+        "amount": "4",
+        "operation": "ADDITION"
+	},
+	{
+        "attribute": "minecraft:generic.armor",
+        "amount": "0.3",
+        "operation": "MULTIPLY_TOTAL"
+	}
+      ]
+  }
+}

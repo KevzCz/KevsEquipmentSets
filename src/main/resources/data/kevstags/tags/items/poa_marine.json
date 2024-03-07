@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "plentyofarmors:marine_diamond_helmet",
+    "plentyofarmors:marine_diamond_chestplate",
+    "plentyofarmors:marine_diamond_leggings",
+    "plentyofarmors:marine_diamond_boots"
+  ]
+}

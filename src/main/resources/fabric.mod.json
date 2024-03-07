@@ -1,0 +1,40 @@
+{
+	"schemaVersion": 1,
+	"id": "kevsequipmentsets",
+	"version": "${version}",
+	"name": "Kev's Equipment Sets",
+	"description": "Equipment Set Bonuses!",
+	"authors": [
+		"KevzCz",
+		"Pixel Dream Studios"
+	],
+	"contributors": [
+		"Kyber_6"
+	],
+	"contact": {
+		"homepage": "https://www.curseforge.com/minecraft/mc-mods/kevs-tieredz-modifiers",
+		"sources": "https://github.com/kyber-6/kevstieredzmodifiers-mod",
+		"issues": "https://github.com/kyber-6/kevstieredzmodifiers-mod/issues"
+	},
+	"license": "GNU GPLv3",
+	"icon": "assets/kevsequipmentsets/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"net.kevsequipmentsets.KevsEquipmentSets"
+		]
+	},
+	"depends": {
+		"fabricloader": ">=0.15.6",
+		"minecraft": "~1.20.1",
+		"java": ">=17",
+		"fabric-api": "*",
+		"mcdw": "*",
+		"zenith_attributes": "*",
+		"obscure_api": "*",
+		"simplyswords": "*",
+		"gear_core": "*",
+		"spell_power": "*",
+		"basicweapons": "*"
+	}
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Armor Set Bonus",
+  "active_formatting": [
+    "WHITE",
+    "BOLD"
+  ],
+  "items": [
+  {"tag": "kevstags:poa_endernetherite"}
+  ],
+  "bonuses": {
+    "2": [
+      {
+        "attribute": "spell_power:arcane",
+        "amount": "0.3",
+        "operation": "MULTIPLY_TOTAL"
+	    }
+      ],
+    "4": [
+      {
+        "attribute": "spell_power:arcane",
+        "amount": "2",
+        "operation": "ADDITION"
+      } 
+      ]
+  }
+}
