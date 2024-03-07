@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/KevsEquipmentSets.iml" filepath="$PROJECT_DIR$/KevsEquipmentSets.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/KevsEquipmentSets.main.iml" filepath="$PROJECT_DIR$/.idea/modules/KevsEquipmentSets.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/KevsEquipmentSets.test.iml" filepath="$PROJECT_DIR$/.idea/modules/KevsEquipmentSets.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/KevsTierifyModifiers.main.iml" filepath="$PROJECT_DIR$/.idea/modules/KevsTierifyModifiers.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/KevsTierifyModifiers.test.iml" filepath="$PROJECT_DIR$/.idea/modules/KevsTierifyModifiers.test.iml" />
     </modules>
   </component>
 </project>
