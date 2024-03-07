@@ -20,6 +20,6 @@ A magical mod originally crafted for Fantasy MC, a total of 11 new modifiers! En
 
 ### 🌈 Recommended Optional Mods
 
-- [Kev's Tierify Modifiers](https://legacy.curseforge.com/minecraft/mc-mods/kevs-tierify-modifiers) OR[Kev's TieredZ Modifiers](https://www.curseforge.com/minecraft/mc-mods/kevs-tieredz-modifiers)
+- [Kev's Tierify Modifiers](https://legacy.curseforge.com/minecraft/mc-mods/kevs-tierify-modifiers) OR [Kev's TieredZ Modifiers](https://www.curseforge.com/minecraft/mc-mods/kevs-tieredz-modifiers)
 
 [![](https://i.imgur.com/l815YIN.png)](https://bisecthosting.com/PixelDream)
