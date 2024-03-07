@@ -12,9 +12,9 @@
 		"Kyber_6"
 	],
 	"contact": {
-		"homepage": "https://www.curseforge.com/minecraft/mc-mods/kevs-tieredz-modifiers",
-		"sources": "https://github.com/kyber-6/kevstieredzmodifiers-mod",
-		"issues": "https://github.com/kyber-6/kevstieredzmodifiers-mod/issues"
+		"homepage": "https://www.curseforge.com/minecraft/mc-mods/kevs-equipment-sets",
+		"sources": "https://github.com/KevzCz/KevsEquipmentSets",
+		"issues": "https://github.com/KevzCz/KevsEquipmentSets/issues"
 	},
 	"license": "GNU GPLv3",
 	"icon": "assets/kevsequipmentsets/icon.png",
