@@ -1,0 +1,20 @@
+{
+  "name": "Soul Proficiency",
+  "active_formatting": [
+    "LIGHT_PURPLE",
+    "BOLD"
+  ],
+  "items": [
+    {"item": "soulsweapons:soul_reaper"},
+    {"item": "soulsweapons:forlorn_scythe"}
+  ],
+  "bonuses": {
+    "1": [
+	{
+        "attribute": "spell_power:soul",
+        "amount": "5",
+        "operation": "ADDITION"
+	}
+      ]
+  }
+}

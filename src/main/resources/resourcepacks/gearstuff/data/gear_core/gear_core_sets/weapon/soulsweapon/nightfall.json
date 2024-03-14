@@ -1,0 +1,24 @@
+{
+  "name": "Soul Proficiency",
+  "active_formatting": [
+    "LIGHT_PURPLE",
+    "BOLD"
+  ],
+  "items": [
+    {"item": "soulsweapons:nightfall"}
+  ],
+  "bonuses": {
+    "1": [
+	{
+        "attribute": "spell_power:soul",
+        "amount": "3",
+        "operation": "ADDITION"
+	},
+      {
+        "attribute": "spell_power:arcane",
+        "amount": "3",
+        "operation": "ADDITION"
+      }
+      ]
+  }
+}

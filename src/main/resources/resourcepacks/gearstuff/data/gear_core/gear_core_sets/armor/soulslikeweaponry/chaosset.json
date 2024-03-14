@@ -15,6 +15,11 @@
         "amount": "4",
         "operation": "ADDITION"
 	},
+    {
+      "attribute": "spell_power:soul",
+      "amount": "8",
+      "operation": "ADDITION"
+    },
 	{
         "attribute": "minecraft:generic.armor",
         "amount": "0.3",
