@@ -36,6 +36,8 @@
 		"gear_core": "*",
 		"spell_power": "*",
 		"basicweapons": "*",
+		"soulsweapons": "*",
+		"epicknightsnmages": "*",
 		"kevslibrary": ">=1.0.1"
 	}
 }
