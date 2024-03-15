@@ -9,12 +9,10 @@
     {"item": "soulsweapons:forlorn_scythe"}
   ],
   "bonuses": {
-    "1": [
-	{
-        "attribute": "spell_power:soul",
-        "amount": "5",
-        "operation": "ADDITION"
-	}
-      ]
+    "1": {
+      "attribute": "spell_power:soul",
+      "amount": "5",
+      "operation": "ADDITION"
+    }
   }
 }

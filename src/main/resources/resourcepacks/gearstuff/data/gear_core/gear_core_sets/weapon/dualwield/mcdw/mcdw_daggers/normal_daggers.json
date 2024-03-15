@@ -14,11 +14,11 @@
         "amount": "0.1",
         "operation": "MULTIPLY_TOTAL"
 	},
-  {
-        "attribute": "obscure_api:penetration",
-        "amount": "0.15",
-        "operation": "MULTIPLY_TOTAL"
-  }
+    {
+          "attribute": "obscure_api:penetration",
+          "amount": "0.15",
+          "operation": "MULTIPLY_TOTAL"
+    }
       ]
   }
 }

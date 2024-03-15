@@ -8,19 +8,16 @@
     {"tag": "kevstags:dark_knight_set"}
   ],
   "bonuses": {
-    "2": [
+    "2":
 	{
         "attribute": "spell_power:soul",
         "amount": "2",
         "operation": "ADDITION"
-	}
-      ],
-    "4": [
-      {
-        "attribute": "spell_power:soul",
-        "amount": "3",
-        "operation": "ADDITION"
-      }
-    ]
+	},
+    "4": {
+      "attribute": "spell_power:soul",
+      "amount": "3",
+      "operation": "ADDITION"
+    }
   }
 }
