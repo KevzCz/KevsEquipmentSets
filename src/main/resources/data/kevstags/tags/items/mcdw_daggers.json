@@ -13,15 +13,6 @@
     "mcdw:dagger_void_touched_blade",
     "mcdw:soul_dagger_eternal_knife",
     "mcdw:soul_dagger_soul_knife",
-    "mcdw:soul_dagger_truthseeker",
-    "aquamirae:dagger_of_greed",
-    "basicweapons:wooden_dagger",
-    "basicweapons:stone_dagger",
-    "basicweapons:iron_dagger",
-    "basicweapons:golden_dagger",
-    "basicweapons:diamond_dagger",
-    "basicweapons:netherite_dagger",
-    "graveyard:bone_dagger",
-    "minecells:assassins_dagger"
+    "mcdw:soul_dagger_truthseeker"
   ]
 }
