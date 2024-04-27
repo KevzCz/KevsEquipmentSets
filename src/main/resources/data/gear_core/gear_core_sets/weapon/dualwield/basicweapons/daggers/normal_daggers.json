@@ -1,0 +1,24 @@
+{
+  "name": "Dualwield: Armor Pierce",
+  "active_formatting": [
+    "WHITE",
+    "BOLD"
+  ],
+  "items": [
+  {"tag": "kevstags:basicweapons_daggers"}
+  ],
+  "bonuses": {
+    "2": [
+      {
+        "attribute": "minecraft:generic.attack_speed",
+        "amount": "0.1",
+        "operation": "MULTIPLY_TOTAL"
+	},
+    {
+          "attribute": "obscure_api:penetration",
+          "amount": "0.15",
+          "operation": "MULTIPLY_TOTAL"
+    }
+      ]
+  }
+}
