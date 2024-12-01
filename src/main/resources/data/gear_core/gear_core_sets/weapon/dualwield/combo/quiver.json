@@ -1,0 +1,30 @@
+{
+  "name": "Quiver Bonus",
+  "active_formatting": [
+    "GRAY",
+    "BOLD"
+  ],
+  "items": [
+  {"tag": "c:bows"},
+    {"tag": "c:quivers"}
+  ],
+  "bonuses": {
+    "2": [
+      {
+        "attribute": "obscure_api:critical_damage",
+        "amount": "0.25",
+        "operation": "MULTIPLY_TOTAL"
+      },
+      {
+        "attribute": "ranged_weapon:haste",
+        "amount": "0.25",
+        "operation": "MULTIPLY_TOTAL"
+      },
+      {
+        "attribute": "zenith_attributes:arrow_velocity",
+        "amount": "0.25",
+        "operation": "MULTIPLY_TOTAL"
+      }
+    ]
+  }
+}

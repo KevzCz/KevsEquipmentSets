@@ -1,0 +1,36 @@
+{
+  "name": "Armor Set Bonus",
+  "active_formatting": [
+    "WHITE",
+    "BOLD"
+  ],
+  "items": [
+    {"item": "mcda:archers_helmet"},
+    {"item": "mcda:archers_chestplate"},
+    {"item": "mcda:archers_leggings"},
+    {"item": "mcda:archers_boots"}
+  ],
+  "bonuses": {
+    "2": [
+      {
+        "attribute": "minecraft:generic.movement_speed",
+        "amount": "0.1",
+        "operation": "MULTIPLY_TOTAL"
+      }
+    ],
+    "3": [
+      {
+        "attribute": "ranged_weapon:damage",
+        "amount": "0.15",
+        "operation": "MULTIPLY_TOTAL"
+      }
+    ],
+    "4": [
+      {
+        "attribute": "ranged_weapon:haste",
+        "amount": "0.25",
+        "operation": "MULTIPLY_TOTAL"
+      }
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id":"mcdar:flaming_quiver",
+      "required": false
+    },
+    {
+      "id":"mcdar:harpoon_quiver",
+      "required": false
+    },
+    {
+      "id":"mcdar:thundering_quiver",
+      "required": false
+    },
+    {
+      "id":"mcdar:torment_quiver",
+      "required": false
+    }
+  ]
+}
